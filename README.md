@@ -1,7 +1,5 @@
 # research_portfolio
 
-# Hi, I’m Shruti Oak
-
 ## About Me
 
 I’m a technology-focused graduate student with experience in software development, data analytics, and applied AI. I enjoy building practical, scalable solutions that combine data, automation, and modern machine learning techniques.
